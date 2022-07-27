@@ -176,3 +176,81 @@ img {
     position: absolute;
     z-index: 1;
 }
+
+@media only screen and (max-width: 1000px) {
+    #name {
+        font-size: 32px;
+    }
+
+    #title {
+        font-size: 12px;
+    }
+    #tote {
+        width: 284px;
+        height: 457px;
+        position: absolute;
+        top: 90%;
+    }
+    
+    #body {
+        width: 284px;
+        height: 290px;
+    }
+    
+    #handle {
+        width: 142px;
+        height: 289px;
+        border: 10px solid #F0D9B5;
+        border-radius: 170px / 300px;
+    }
+    
+    #pPocket1 {
+        width: 85px;
+        height: 91px;
+        font-size: 12px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    #pPocket2 {
+        width: 82px;
+        height: 24px;
+    }
+    
+    #aPocket {
+        width: 56px;
+        height: 65px;
+        font-size: 12px;
+    }
+    
+    #cPocket {
+        width: 102px;
+        height: 41px;
+        font-size: 12px;
+    }
+
+    #rPocket {
+        height: 79px;
+    }
+
+    #rPocket1 {
+        width: 85px;
+        height: 52px;
+    }
+
+    #rPocket2 {
+        font-size: 12px;
+    }
+
+    #rPocket3 {
+        width: 85px; 
+        height: 51px;
+        border-radius: 200px / 100px;
+    }
+
+    #rPocket4 {
+        width: 100px;
+        height: 24px;
+    }
+}
