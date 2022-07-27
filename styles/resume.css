@@ -1,0 +1,9 @@
+#logo {
+    float: right;
+}
+
+#resume {
+    position: absolute;
+    padding-top: 100px;
+    left: 10%;
+}
