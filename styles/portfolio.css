@@ -1,0 +1,36 @@
+#all {
+    font-family: 'K2D';
+}
+
+#logo {
+    float: right;
+}
+
+section {
+    width: 600px;
+    text-align: center;
+}
+
+#org {
+    width: 430px;
+    height: 448px;
+}
+
+#idea {
+    width: 496px;
+    height: 338px;
+}
+
+#final {
+    width: 287px;
+    height: 308px;
+}
+
+.leftSection {
+    padding-left: 10px;
+    padding-top: 100px;
+}
+
+.rightSection {
+    float: right;
+}
