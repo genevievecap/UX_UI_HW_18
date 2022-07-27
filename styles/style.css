@@ -2,12 +2,6 @@
     font-family: 'K2D';
 }
 
-#logo {
-    height: 100px;
-    object-fit: scale-down;
-    background-image: url("Logo.png");
-}
-
 img {
     float: right;
     margin-right: 10px;
